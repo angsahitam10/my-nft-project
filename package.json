@@ -1,0 +1,23 @@
+{
+  "name": "my-nft-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angsahitam10/my-nft-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/angsahitam10/my-nft-project/issues"
+  },
+  "homepage": "https://github.com/angsahitam10/my-nft-project#readme",
+  "dependencies": {
+    "openzeppelin-solidity": "^3.4.2",
+    "web3": "^4.8.0"
+  }
+}
